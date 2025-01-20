@@ -20,7 +20,7 @@ The Event Management System allows users to create, view, and manage events thro
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/events-management.git
+git clone https://github.com/Sujal-Rana-88/eventsManagement_frontend/tree/master
 cd events-management
 ### 2. Install Dependencies
 
